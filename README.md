@@ -27,10 +27,7 @@ SNVM stands out from NVM, a popular Node.js version management tool, on several 
 As SNVM is a portable application, no installation is needed. However, an installable version is also available for those who prefer a local installation.
 
 **Portable Version:** Download the SNVM executable, then simply execute it.
-[Insert a screenshot or a video showing how to execute the executable here]
-
 **Installable Version:** Download the SNVM installation program, then follow the instructions to install it.
-[Insert a screenshot or a video showing how to install the program here]
 
 ## Configuring SNVM <a name="configuring-snvm"></a>
 
@@ -40,8 +37,6 @@ Before starting to use SNVM, you need to configure the Node.js versions you want
 2. Extract the contents of the zip file into a specific folder of your choice.
 3. Open the SNVM configuration file and add the path to the folder where you extracted Node.js.
 
-[Insert a screenshot or a video showing how to add the path in the configuration file here]
-
 Once the configuration is done, SNVM will detect all available Node.js versions in the specified directory.
 
 ## Using SNVM <a name="using-snvm"></a>
@@ -50,8 +45,6 @@ Using SNVM is very simple.
 
 1. Execute the application. A menu will appear, displaying all available Node.js versions.
 2. Select the Node.js version you wish to use.
-
-[Insert a screenshot or a video showing how to select a Node.js version here]
 
 That's it! In two clicks, you can change the Node.js version.
 
